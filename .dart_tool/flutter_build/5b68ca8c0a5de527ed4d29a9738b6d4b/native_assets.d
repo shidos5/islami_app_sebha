@@ -1,0 +1,1 @@
+ G:\\flutter_islami_sibha\\.dart_tool\\flutter_build\\5b68ca8c0a5de527ed4d29a9738b6d4b\\native_assets.yaml: 
